@@ -1,5 +1,5 @@
-a = int(input("Que valor de a deseas: "))
-b = int(input("Que valor de b deseas: "))
+a = 57
+b = 7
 def math(a, b):
     print(a + b)
     print(a - b)
