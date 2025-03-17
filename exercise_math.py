@@ -1,13 +1,11 @@
-def math():
-    a = 57
-    b = 7
-#Ejercicio 2#
-a = 10
-b = 19
-print(a + b)
-print(a - b)
-print(a * b)
-print((a + b)/2)
-print(int(a / b))
-print(a % b)
-print(a / b)
+a = int(input("Que valor de a deseas: "))
+b = int(input("Que valor de b deseas: "))
+def math(a, b):
+    print(a + b)
+    print(a - b)
+    print(a * b)
+    print((a + b)/2)
+    print(int(a / b))
+    print(a % b)
+    print(a / b)
+def math(a, b) 
