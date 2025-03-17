@@ -8,4 +8,4 @@ def math(a, b):
     print(int(a / b))
     print(a % b)
     print(a / b)
-def math(a, b) 
+math(a, b) 
