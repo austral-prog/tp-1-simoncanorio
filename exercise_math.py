@@ -1,6 +1,6 @@
 a = 57
 b = 7
-def math(a, b):
+def math():
     print(a + b)
     print(a - b)
     print(a * b)
@@ -8,4 +8,4 @@ def math(a, b):
     print(int(a / b))
     print(a % b)
     print(a / b)
-math(a, b) 
+math() 
